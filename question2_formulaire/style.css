@@ -12,3 +12,8 @@ form {
 .boutons {
     margin-top: 10px;
 }
+
+p {
+    text-align: center;
+    margin-top: 20px;
+}
